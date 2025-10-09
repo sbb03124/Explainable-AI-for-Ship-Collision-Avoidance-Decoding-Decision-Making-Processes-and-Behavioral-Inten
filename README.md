@@ -1,5 +1,5 @@
 # About this code
-This is an implementation ofthe  following paper<br><br>
+This is an implementation of the following paper<br><br>
 Hitoshi Yoshioka, and Hirotada Hashimoto.<br>
 "Explainable AI for Ship Collision Avoidance: Decoding Decision-Making Processes and Behavioral Intentions".<br>
 Applied Ocean Research.<br><br>
