@@ -28,4 +28,4 @@ pyglet==1.5.26<br>
 # Run
 python main.py
 # Conntact us
-Hitoshi Yoshioka: su23152i@st.omu.ac.jp
+Hitoshi Yoshioka: y21602k@omu.ac.jp
